@@ -1,4 +1,4 @@
-# CSegmentação de vídeos por trechos de fala utilizando redes neurais convulacionais
+# Segmentação de vídeos por trechos de fala utilizando redes neurais convulacionais
 
 
 *   O conjunto de dados utilizado contém 587 trechos de vídeo em formato .wmv que posteriormente serão transformados em formato .wav para estudo do som, o conjunto está divido em 6 classes:
